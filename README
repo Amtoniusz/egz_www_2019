@@ -1,0 +1,7 @@
+Zadania: na 3, ściąganie fetchem.
+na 3: strona jest responsywna ma tagi semantyczne, jak szerokość strony jest mniejsza niż 600 to strona się zmienia zgodznie z regułami
+stopka i nagłówek są zmieniane za pomocą ts a lista typów ukrywana za pomocą CSS
+ściąganie fetchem: używam getów, a zwracam jsony
+Jakby coś nie działało to pewnie brakuje jakiś modułów to zaklecia.sh powinny naprawić
+
+

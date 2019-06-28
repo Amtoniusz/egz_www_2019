@@ -1,0 +1,15 @@
+{
+    "files": [
+        "main.ts",
+        "server.ts"
+    ],
+    "compilerOptions": {
+            "allowJs": true,
+            "resolveJsonModule": true,
+            "noImplicitAny": false,
+            "moduleResolution": "node",
+            "module": "esnext",
+            "target": "es2017"
+    },
+    "include": [ "*" ]
+}
